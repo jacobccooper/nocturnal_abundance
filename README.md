@@ -1,0 +1,1 @@
+Code to examine the relative abundance distributions of select bird species in the state of Nebraska. Code written by Jacob C. Cooper & Maddie Bengston, and analyses performed by Maddie Bengston. Part of Maddie's Undergraduate Research Fellowship at the University of Nebraska at Kearney.
