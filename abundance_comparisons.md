@@ -1,4 +1,4 @@
-Cooper Demonstration
+Abundance Comparisons - Nebraska Birds
 ================
 
 # Introduction
