@@ -1,4 +1,4 @@
-Abundance Comparisons - Nebraska Birds
+Abundance Comparisons
 ================
 
 # Introduction
@@ -387,8 +387,8 @@ mann_whitney_compare(sp.a = "Passer",sp.b = "Chaetura",
     ## [1] "Median for Chaetura is 0.1494"
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference has a p value of 0.469866903258811"
-    ## [1] "P value has stdev of 0.247575623268992"
+    ## [1] "Difference has a p value of 0.475945209511095"
+    ## [1] "P value has stdev of 0.248205539350865"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-10-1.png)<!-- -->
 
@@ -399,8 +399,8 @@ mann_whitney_compare(sp.a = "Passer",sp.b = "Chaetura",
     ## [1] "Sampling 200 samples. If too small, skipped."
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference of subsamples has a p value of 0.439156753227064"
-    ## [1] "P value has stdev of 0.305605750663128"
+    ## [1] "Difference of subsamples has a p value of 0.453098301939201"
+    ## [1] "P value has stdev of 0.303059847511184"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-10-2.png)<!-- -->
 
@@ -416,8 +416,8 @@ mann_whitney_compare(sp.a = "Accipiter",sp.b = "Strix",
     ## [1] "Median for Strix is 0.2083"
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference has a p value of 1.86955947941874e-126"
-    ## [1] "P value has stdev of 5.66702782156415e-125"
+    ## [1] "Difference has a p value of 8.39178300878167e-122"
+    ## [1] "P value has stdev of 2.63095831385229e-120"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
 
@@ -428,8 +428,8 @@ mann_whitney_compare(sp.a = "Accipiter",sp.b = "Strix",
     ## [1] "Sampling 200 samples. If too small, skipped."
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference of subsamples has a p value of 6.94107192534811e-12"
-    ## [1] "P value has stdev of 1.27635848140949e-10"
+    ## [1] "Difference of subsamples has a p value of 3.32165725686397e-10"
+    ## [1] "P value has stdev of 8.3038633937937e-09"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-11-2.png)<!-- -->
 
@@ -445,8 +445,8 @@ mann_whitney_compare(sp.a = "Passer",sp.b = "Megascops",
     ## [1] "Median for Megascops is 0.1027"
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference has a p value of 1.93959154117928e-05"
-    ## [1] "P value has stdev of 0.000142665016753944"
+    ## [1] "Difference has a p value of 1.75039248930001e-05"
+    ## [1] "P value has stdev of 9.2977248381656e-05"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-12-1.png)<!-- -->
 
@@ -457,8 +457,8 @@ mann_whitney_compare(sp.a = "Passer",sp.b = "Megascops",
     ## [1] "Sampling 200 samples. If too small, skipped."
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference of subsamples has a p value of 0.0071653975822343"
-    ## [1] "P value has stdev of 0.0316791501168487"
+    ## [1] "Difference of subsamples has a p value of 0.071184096130437"
+    ## [1] "P value has stdev of 0.141272250890352"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-12-2.png)<!-- -->
 
@@ -486,8 +486,8 @@ mann_whitney_compare(sp.a = "Passer",sp.b = "Buteo",
     ## [1] "Sampling 200 samples. If too small, skipped."
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference of subsamples has a p value of 3.7199925856198e-69"
-    ## [1] "P value has stdev of 1.027323045318e-67"
+    ## [1] "Difference of subsamples has a p value of 5.56918582102469e-67"
+    ## [1] "P value has stdev of 1.59491284922587e-65"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-13-2.png)<!-- -->
 
@@ -515,8 +515,8 @@ mann_whitney_compare(sp.a = "Passer",sp.b = "Accipiter",
     ## [1] "Sampling 200 samples. If too small, skipped."
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference of subsamples has a p value of 1.84244483773369e-26"
-    ## [1] "P value has stdev of 3.19526436520964e-25"
+    ## [1] "Difference of subsamples has a p value of 8.84960927282676e-24"
+    ## [1] "P value has stdev of 1.81366292356246e-22"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-14-2.png)<!-- -->
 
@@ -532,8 +532,8 @@ mann_whitney_compare(sp.a = "Passer",sp.b = "Strix",
     ## [1] "Median for Strix is 0.2083"
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference has a p value of 2.1420566121185e-11"
-    ## [1] "P value has stdev of 5.48453024249454e-10"
+    ## [1] "Difference has a p value of 2.56086802629703e-11"
+    ## [1] "P value has stdev of 5.67873821761619e-10"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-15-1.png)<!-- -->
 
@@ -544,8 +544,8 @@ mann_whitney_compare(sp.a = "Passer",sp.b = "Strix",
     ## [1] "Sampling 200 samples. If too small, skipped."
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference of subsamples has a p value of 0.0728706364041129"
-    ## [1] "P value has stdev of 0.14226039711842"
+    ## [1] "Difference of subsamples has a p value of 0.0953492107913665"
+    ## [1] "P value has stdev of 0.174589547705564"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-15-2.png)<!-- -->
 
@@ -561,8 +561,8 @@ mann_whitney_compare(sp.a = "Chaetura",sp.b = "Megascops",
     ## [1] "Median for Megascops is 0.1027"
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference has a p value of 0.0630642169933152"
-    ## [1] "P value has stdev of 0.109312520162718"
+    ## [1] "Difference has a p value of 0.062524364202173"
+    ## [1] "P value has stdev of 0.0984104694429103"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-16-1.png)<!-- -->
 
@@ -573,8 +573,8 @@ mann_whitney_compare(sp.a = "Chaetura",sp.b = "Megascops",
     ## [1] "Sampling 200 samples. If too small, skipped."
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference of subsamples has a p value of 0.27431681336718"
-    ## [1] "P value has stdev of 0.266985670204558"
+    ## [1] "Difference of subsamples has a p value of 0.108113506014537"
+    ## [1] "P value has stdev of 0.170632610133364"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-16-2.png)<!-- -->
 
@@ -602,8 +602,8 @@ mann_whitney_compare(sp.a = "Chaetura",sp.b = "Buteo",
     ## [1] "Sampling 200 samples. If too small, skipped."
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference of subsamples has a p value of 5.7261811510539e-34"
-    ## [1] "P value has stdev of 1.28293825312306e-32"
+    ## [1] "Difference of subsamples has a p value of 2.92662157164088e-37"
+    ## [1] "P value has stdev of 9.17183272584337e-36"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-17-2.png)<!-- -->
 
@@ -631,8 +631,8 @@ mann_whitney_compare(sp.a = "Chaetura",sp.b = "Accipiter",
     ## [1] "Sampling 200 samples. If too small, skipped."
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference of subsamples has a p value of 4.56147657006041e-19"
-    ## [1] "P value has stdev of 1.17932046514765e-17"
+    ## [1] "Difference of subsamples has a p value of 2.63624293447043e-19"
+    ## [1] "P value has stdev of 6.44077763616888e-18"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-18-2.png)<!-- -->
 
@@ -648,8 +648,8 @@ mann_whitney_compare(sp.a = "Chaetura",sp.b = "Strix",
     ## [1] "Median for Strix is 0.2083"
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference has a p value of 7.11145902789081e-07"
-    ## [1] "P value has stdev of 8.13760954425e-06"
+    ## [1] "Difference has a p value of 6.88608100171839e-07"
+    ## [1] "P value has stdev of 5.45031699233745e-06"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-19-1.png)<!-- -->
 
@@ -660,8 +660,8 @@ mann_whitney_compare(sp.a = "Chaetura",sp.b = "Strix",
     ## [1] "Sampling 200 samples. If too small, skipped."
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference of subsamples has a p value of 0.119118913797562"
-    ## [1] "P value has stdev of 0.181056546537044"
+    ## [1] "Difference of subsamples has a p value of 0.206089666750792"
+    ## [1] "P value has stdev of 0.235520911153097"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-19-2.png)<!-- -->
 
@@ -677,8 +677,8 @@ mann_whitney_compare(sp.a = "Buteo",sp.b = "Megascops",
     ## [1] "Median for Megascops is 0.1027"
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference has a p value of 8.32085674248604e-135"
-    ## [1] "P value has stdev of 2.0023691410645e-133"
+    ## [1] "Difference has a p value of 5.10903028597304e-136"
+    ## [1] "P value has stdev of 6.61999706797557e-135"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-20-1.png)<!-- -->
 
@@ -689,8 +689,8 @@ mann_whitney_compare(sp.a = "Buteo",sp.b = "Megascops",
     ## [1] "Sampling 200 samples. If too small, skipped."
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference of subsamples has a p value of 1.62367599008204e-34"
-    ## [1] "P value has stdev of 5.12928607608743e-33"
+    ## [1] "Difference of subsamples has a p value of 4.40329583693629e-35"
+    ## [1] "P value has stdev of 8.33118345302131e-34"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-20-2.png)<!-- -->
 
@@ -706,8 +706,8 @@ mann_whitney_compare(sp.a = "Accipiter",sp.b = "Megascops",
     ## [1] "Median for Megascops is 0.1027"
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference has a p value of 3.67228291658874e-74"
-    ## [1] "P value has stdev of 7.98387653099291e-73"
+    ## [1] "Difference has a p value of 3.16672489334641e-76"
+    ## [1] "P value has stdev of 5.89044666252459e-75"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-21-1.png)<!-- -->
 
@@ -718,8 +718,8 @@ mann_whitney_compare(sp.a = "Accipiter",sp.b = "Megascops",
     ## [1] "Sampling 200 samples. If too small, skipped."
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference of subsamples has a p value of 3.50973658169369e-21"
-    ## [1] "P value has stdev of 9.70184474672804e-20"
+    ## [1] "Difference of subsamples has a p value of 6.79466609533645e-21"
+    ## [1] "P value has stdev of 1.72027580974431e-19"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-21-2.png)<!-- -->
 
@@ -735,8 +735,8 @@ mann_whitney_compare(sp.a = "Strix",sp.b = "Megascops",
     ## [1] "Median for Megascops is 0.1027"
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference has a p value of 1.19219231881083e-09"
-    ## [1] "P value has stdev of 1.81838400049367e-08"
+    ## [1] "Difference has a p value of 6.73591287566975e-10"
+    ## [1] "P value has stdev of 1.11631905213616e-08"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-22-1.png)<!-- -->
 
@@ -747,8 +747,8 @@ mann_whitney_compare(sp.a = "Strix",sp.b = "Megascops",
     ## [1] "Sampling 200 samples. If too small, skipped."
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference of subsamples has a p value of 0.00139130179477204"
-    ## [1] "P value has stdev of 0.00710758425942422"
+    ## [1] "Difference of subsamples has a p value of 0.00356599738267875"
+    ## [1] "P value has stdev of 0.0144691493768955"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-22-2.png)<!-- -->
 
@@ -764,8 +764,8 @@ mann_whitney_compare(sp.a = "Buteo",sp.b = "Accipiter",
     ## [1] "Median for Accipiter is 0.337"
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference has a p value of 4.06413637315679e-95"
-    ## [1] "P value has stdev of 1.22015255019248e-93"
+    ## [1] "Difference has a p value of 9.65336866762938e-97"
+    ## [1] "P value has stdev of 1.40183121975278e-95"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-23-1.png)<!-- -->
 
@@ -776,8 +776,8 @@ mann_whitney_compare(sp.a = "Buteo",sp.b = "Accipiter",
     ## [1] "Sampling 200 samples. If too small, skipped."
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference of subsamples has a p value of 0.00158654625798426"
-    ## [1] "P value has stdev of 0.0216357728559549"
+    ## [1] "Difference of subsamples has a p value of 0.00156270549266904"
+    ## [1] "P value has stdev of 0.0141818648603973"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-23-2.png)<!-- -->
 
@@ -805,8 +805,8 @@ mann_whitney_compare(sp.a = "Buteo",sp.b = "Strix",
     ## [1] "Sampling 200 samples. If too small, skipped."
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference of subsamples has a p value of 1.60854025299611e-30"
-    ## [1] "P value has stdev of 5.00554619027054e-29"
+    ## [1] "Difference of subsamples has a p value of 5.53388147249671e-34"
+    ## [1] "P value has stdev of 1.03940058957771e-32"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-24-2.png)<!-- -->
 
@@ -822,8 +822,8 @@ mann_whitney_compare(sp.a = "Passer",sp.b = "Vociferus",
     ## [1] "Median for Vociferus is 0"
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference has a p value of 6.96042142622703e-30"
-    ## [1] "P value has stdev of 9.67269584340246e-29"
+    ## [1] "Difference has a p value of 1.6503361086076e-30"
+    ## [1] "P value has stdev of 9.00837161622413e-30"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-25-1.png)<!-- -->
 
@@ -834,8 +834,8 @@ mann_whitney_compare(sp.a = "Passer",sp.b = "Vociferus",
     ## [1] "Sampling 200 samples. If too small, skipped."
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference of subsamples has a p value of 3.25502852711168e-20"
-    ## [1] "P value has stdev of 3.78996578166909e-19"
+    ## [1] "Difference of subsamples has a p value of 1.20780527762079e-19"
+    ## [1] "P value has stdev of 3.62087292799515e-18"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-25-2.png)<!-- -->
 
@@ -851,8 +851,8 @@ mann_whitney_compare(sp.a = "Passer",sp.b = "Carolinensis",
     ## [1] "Median for Carolinensis is 0.0219"
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference has a p value of 1.44591918576225e-07"
-    ## [1] "P value has stdev of 3.92031645332453e-07"
+    ## [1] "Difference has a p value of 1.9906729465524e-07"
+    ## [1] "P value has stdev of 8.43412622113726e-07"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-26-1.png)<!-- -->
 
@@ -875,8 +875,8 @@ mann_whitney_compare(sp.a = "Chaetura",sp.b = "Vociferus",
     ## [1] "Median for Vociferus is 0"
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference has a p value of 7.31564013135877e-27"
-    ## [1] "P value has stdev of 1.15158151256982e-25"
+    ## [1] "Difference has a p value of 4.36725173156824e-27"
+    ## [1] "P value has stdev of 7.77032127096133e-26"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-27-1.png)<!-- -->
 
@@ -887,8 +887,8 @@ mann_whitney_compare(sp.a = "Chaetura",sp.b = "Vociferus",
     ## [1] "Sampling 200 samples. If too small, skipped."
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference of subsamples has a p value of 1.28939440398404e-18"
-    ## [1] "P value has stdev of 2.27923506613487e-17"
+    ## [1] "Difference of subsamples has a p value of 1.68298795643093e-18"
+    ## [1] "P value has stdev of 1.8199440953759e-17"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-27-2.png)<!-- -->
 
@@ -904,8 +904,8 @@ mann_whitney_compare(sp.a = "Chaetura",sp.b = "Carolinensis",
     ## [1] "Median for Carolinensis is 0.0219"
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference has a p value of 0.000206362434052866"
-    ## [1] "P value has stdev of 0.000662543944901382"
+    ## [1] "Difference has a p value of 0.000202640113626818"
+    ## [1] "P value has stdev of 0.000664350680987282"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-28-1.png)<!-- -->
 
@@ -928,8 +928,8 @@ mann_whitney_compare(sp.a = "Megascops",sp.b = "Vociferus",
     ## [1] "Median for Vociferus is 0"
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference has a p value of 1.12750405818327e-30"
-    ## [1] "P value has stdev of 5.4524492141468e-30"
+    ## [1] "Difference has a p value of 1.76142478329468e-30"
+    ## [1] "P value has stdev of 1.59058421947935e-29"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-29-1.png)<!-- -->
 
@@ -940,8 +940,8 @@ mann_whitney_compare(sp.a = "Megascops",sp.b = "Vociferus",
     ## [1] "Sampling 200 samples. If too small, skipped."
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference of subsamples has a p value of 2.44147113943014e-20"
-    ## [1] "P value has stdev of 4.6002063392319e-19"
+    ## [1] "Difference of subsamples has a p value of 3.17353319980099e-19"
+    ## [1] "P value has stdev of 7.18069590039402e-18"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-29-2.png)<!-- -->
 
@@ -957,8 +957,8 @@ mann_whitney_compare(sp.a = "Megascops",sp.b = "Carolinensis",
     ## [1] "Median for Carolinensis is 0.0219"
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference has a p value of 2.49749875181617e-05"
-    ## [1] "P value has stdev of 6.46392822272726e-05"
+    ## [1] "Difference has a p value of 2.79992440180179e-05"
+    ## [1] "P value has stdev of 6.17747218944607e-05"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-30-1.png)<!-- -->
 
@@ -981,8 +981,8 @@ mann_whitney_compare(sp.a = "Buteo",sp.b = "Vociferus",
     ## [1] "Median for Vociferus is 0"
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference has a p value of 3.20870663972946e-63"
-    ## [1] "P value has stdev of 1.82731787834449e-62"
+    ## [1] "Difference has a p value of 3.7883445290431e-63"
+    ## [1] "P value has stdev of 2.59792985446689e-62"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-31-1.png)<!-- -->
 
@@ -993,8 +993,8 @@ mann_whitney_compare(sp.a = "Buteo",sp.b = "Vociferus",
     ## [1] "Sampling 200 samples. If too small, skipped."
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference of subsamples has a p value of 1.53059616794773e-42"
-    ## [1] "P value has stdev of 3.31229106140741e-41"
+    ## [1] "Difference of subsamples has a p value of 6.80509940884479e-45"
+    ## [1] "P value has stdev of 1.52719215469938e-43"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-31-2.png)<!-- -->
 
@@ -1010,8 +1010,8 @@ mann_whitney_compare(sp.a = "Buteo",sp.b = "Carolinensis",
     ## [1] "Median for Carolinensis is 0.0219"
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference has a p value of 7.42318745006301e-14"
-    ## [1] "P value has stdev of 2.19036122105703e-14"
+    ## [1] "Difference has a p value of 7.58746313451023e-14"
+    ## [1] "P value has stdev of 2.25547203846223e-14"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-32-1.png)<!-- -->
 
@@ -1034,8 +1034,8 @@ mann_whitney_compare(sp.a = "Accipiter",sp.b = "Vociferus",
     ## [1] "Median for Vociferus is 0"
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference has a p value of 1.61313203568628e-52"
-    ## [1] "P value has stdev of 2.04867944461559e-51"
+    ## [1] "Difference has a p value of 7.86276489230947e-53"
+    ## [1] "P value has stdev of 4.97337871107398e-52"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-33-1.png)<!-- -->
 
@@ -1046,8 +1046,8 @@ mann_whitney_compare(sp.a = "Accipiter",sp.b = "Vociferus",
     ## [1] "Sampling 200 samples. If too small, skipped."
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference of subsamples has a p value of 3.72066402044544e-38"
-    ## [1] "P value has stdev of 4.1495158824164e-37"
+    ## [1] "Difference of subsamples has a p value of 3.26312679932739e-37"
+    ## [1] "P value has stdev of 5.96004592370474e-36"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-33-2.png)<!-- -->
 
@@ -1063,8 +1063,8 @@ mann_whitney_compare(sp.a = "Accipiter",sp.b = "Carolinensis",
     ## [1] "Median for Carolinensis is 0.0219"
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference has a p value of 6.03471870222576e-13"
-    ## [1] "P value has stdev of 9.53155436818303e-13"
+    ## [1] "Difference has a p value of 6.6226416071028e-13"
+    ## [1] "P value has stdev of 1.02667467906286e-12"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-34-1.png)<!-- -->
 
@@ -1087,8 +1087,8 @@ mann_whitney_compare(sp.a = "Vociferus",sp.b = "Carolinensis",
     ## [1] "Median for Carolinensis is 0.0219"
     ## ================================================================================
     ## [1] "Complete."
-    ## [1] "Difference has a p value of 0.000234744860011999"
-    ## [1] "P value has stdev of 0.000853757575363335"
+    ## [1] "Difference has a p value of 0.000234079434725172"
+    ## [1] "P value has stdev of 0.000900586893178865"
 
 ![](abundance_comparisons_files/figure-gfm/unnamed-chunk-35-1.png)<!-- -->
 
